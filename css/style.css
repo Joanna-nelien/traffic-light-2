@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+.traffic-light{
+}
+
+
+.light-red{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: 10px solid darkred;
+}
+
+.inside-section-one{
+    width: 20px;
+    height: 20px;
+    background-color: purple;
+}
+
+.light-yellow{
+    background-color: yellow;  
+    width: 200px;
+    height: 200px;
+    border: 10px solid gold; 
+}
+
+.light-green{
+    background-color: green;  
+    width: 200px;
+    height: 200px;
+    border: 10px solid darkgreen;
+}
